@@ -4,7 +4,7 @@ collection: teaching
 type: "A-Level optional course"
 permalink: /teaching/2020-orbyts
 venue: "Snaresbrook Forest School & Stratford LAE School"
-date: "2019 - 2020"
+date: 2020-01-01
 location: "London, UK"
 ---
 
