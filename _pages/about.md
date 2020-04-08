@@ -27,6 +27,6 @@ redirect_from:
 * ExoAI project ([website](https://exoai.github.io/)) 
 * ExoClock project ([website](https://www.exoclock.space/))
 
-======
+---
 
 

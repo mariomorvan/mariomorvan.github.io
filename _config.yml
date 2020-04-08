@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Mario Morvan"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mario Morvan"
 description              : &description "PhD Candidate at University College London"
