@@ -1,17 +1,19 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome here"
+excerpt: "Welcome here"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+A few words about me:
 
-
-Welcome here
-
-I graduated with both a Dipl. Ing. from Mines Saint-Etienne School and a MSci in Astrophysics from the University of Barcelona. While in the former I specialized in Data Science and Big Data, I later had the opportunity to apply these skills to astronomical data during my research project at the UB, developing a new method to detect open clusters from Gaia measurements. Seduced then by the combination of Machine Learning and Astronomy which, I realized, would continue to flourish in the near future due to the upcoming massive astronomical surveys, this CDT seemed to me like the perfect next step, and I therefore joined it after 8 months working in a Data Consultancy company in Paris. 
+* I graduated with both a Dipl. Ing. from Mines Saint-Etienne School and a MSci in Astrophysics from the University of Barcelona. 
+* I am now doing a Physics and Data Science Ph.D at University College London, as part of the [Center for Doctoral Training in Data Intensive Science](https://www.hep.ucl.ac.uk/cdt-dis/).
+* My current focus is on transit observations, and how to improve their overall analysis. We basically want to make the best of current observations and prepare for the next missions which are going to gather PetaFlops of complex data.
+* Various sources of noise come in the way of the planetary signal (damn), and for that reason data processing pipelines based on traditional statistics have been developped to retrieve the planet and orbit parameters.
+* Our approach is chiefly data-based, and betting on the recent advances of Time Series analysis, Machine and Deep Learning.
 
 ======
