@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-##### A few *words* about me:
+### A few *words* about me:
 
 * I graduated with both a Dipl. Ing. from Mines Saint-Etienne School and a MSci in Astrophysics from the University of Barcelona. 
 * I am currently doing at Ph.D at University College London, at the interface between Exoplanet Science and Data Science. 
@@ -17,11 +17,11 @@ redirect_from:
 
 ---
 
-##### A few *groups* I am part of:
+### A few *groups* I am part of:
 
 * UCL Exoplanets ([website](https://www.ucl.ac.uk/exoplanets/))
-	> itself part of UCL Astrophysics ([website](https://www.ucl.ac.uk/astrophysics/))
- 	>> itself part of UCL Physics&Astronomy ([website](https://www.ucl.ac.uk/physics-astronomy/))
+	* itself part of UCL Astrophysics ([website](https://www.ucl.ac.uk/astrophysics/))
+		* itself part of UCL Physics&Astronomy ([website](https://www.ucl.ac.uk/physics-astronomy/))
 * UCL Center for Doctoral Training in Data-Intensive Science ([website](https://www.hep.ucl.ac.uk/cdt-dis/))
 * Center for Space Exochemistry Data ([website](https://www.ucl.ac.uk/space-exochemistry-data/)) 
 * ExoAI project ([website](https://exoai.github.io/)) 
