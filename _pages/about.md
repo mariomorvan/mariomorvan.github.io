@@ -11,7 +11,7 @@ redirect_from:
 ### Past and Present:
 
 * I graduated with a *Dipl. Ing.* from ***Mines Saint-Etienne*** School and a *MSci in Astrophysics* from the ***University of Barcelona***. 
-* I am currently doing a *Ph.D* at ***University College London***, in Deep Learning applied to Exoplanetary Sciences. 
+* I am currently studying towards a *Ph.D* at ***University College London***, in Deep Learning applied to Exoplanet Sciences. 
 * My current focus is on improving denoising models for transit observations with the help of unsupervised, self-supervised and physics-based deep learning.
 
 ---
