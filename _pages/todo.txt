@@ -1,0 +1,13 @@
+
+(configure a "home" page which isn't the main page, so that the website can be called something different than 'home')
+
+look at examples in the fork
+
+(Find - Take a nice, funny, witty,smily photo)
+
+
+Change CV for full pdf CV
+ 
+Activate talks collection
+
+Add selected publications
